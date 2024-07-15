@@ -230,6 +230,9 @@ font-weight: 700;
     font-weight: bold;
 
 }
+.footer-content i{
+    color: white;
+}
 
 /* for small device */
 @media screen and (max-width:556px) {
